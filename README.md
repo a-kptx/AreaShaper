@@ -1,6 +1,6 @@
 # AreaShaper
 
-Ответ на второй вопрос:
+РћС‚РІРµС‚ РЅР° РІС‚РѕСЂРѕР№ РІРѕРїСЂРѕСЃ:
 
 SELECT productName, categoryName
 FROM Products p
